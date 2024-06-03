@@ -1,25 +1,6 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
-# Python cache
-__pycache__
-
-# Dependency directories
-venv/
-env/
-
-# IDE directories (e.g. PyCharm)
-.idea/
-.vscode/
-
-# Compiled Python files
+__pycache__/
 *.pyc
-
-# Logs
-*.log
-
-# Build directory
-/build
-
-# Miscellaneous
+*.pyo
+.env
+.venv
 .DS_Store
-
