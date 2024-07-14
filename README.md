@@ -34,7 +34,7 @@ my-fastapi-app/
 ### Running Locally
 To run the application locally, use the following command:
 ```bash
-uvicorn api.main:app --reload
+uvicorn main:app --reload
 ```
 This will start the FastAPI server locally and reload automatically on code changes.
 
