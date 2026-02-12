@@ -2,6 +2,6 @@ fastapi
 uvicorn
 pillow
 matplotlib
-numpy
-tensorflow
+numpy==1.24.3
+tensorflow-cpu==2.13.0
 ultralytics
